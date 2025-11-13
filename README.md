@@ -8,18 +8,11 @@ My journey started in pharmacy, where I developed a deep interest in how technol
 
 Since then, I’ve built analytical skills through Excel, Power BI, SQL, and Python, working on projects related to sales analytics, patient data, and health trends.
 
-💡 **What I do:**
-
+##What I do:
 * Clean, analyze, and visualize data to uncover insights
 * Build dashboards and reports for decision-making
 * Explore healthcare data and public health metrics
 * Automate reports and improve data workflows
 
-📊 **Tools & Skills:**
+Tools & Skills:
 `Excel` | `Power BI` | `SQL` | `Python` | `Data Cleaning` | `Data Visualization` | `Healthcare Analytics`
-
-🌱 **Currently:**
-
-* Enhancing my portfolio with real-world projects
-* Sharing my learning journey on [LinkedIn](#)
---Open to data analysis internships, collaborations, and entry-level roles
