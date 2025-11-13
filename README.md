@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there👋, I'm Esther Aladeloye
 
-<!--
-**aderonke27/aderonke27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **entry-level data analyst** passionate about transforming data into actionable insights that drive smarter decisions — especially in **healthcare and public health**. I enjoy exploring datasets, uncovering trends, and creating **interactive dashboards** that communicate stories clearly and impactfully.
 
-Here are some ideas to get you started:
+My journey started in **pharmacy**, where I developed a deep interest in how **technology and data** can make healthcare more efficient and accessible. Since then, I’ve built analytical skills through **Excel, Power BI, SQL, and Python**, working on projects related to **sales analytics, patient data, and health trends**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **What I do:**
+
+* Clean, analyze, and visualize data to uncover insights
+* Build dashboards and reports for decision-making
+* Explore healthcare data and public health metrics
+* Automate reports and improve data workflows
+
+📊 **Tools & Skills:**
+`Excel` | `Power BI` | `SQL` | `Python` | `Data Cleaning` | `Data Visualization` | `Healthcare Analytics`
+
+🌱 **Currently:**
+
+* Enhancing my portfolio with real-world projects
+* Sharing my learning journey on [LinkedIn](#)
+--Open to data analysis internships, collaborations, and entry-level roles
