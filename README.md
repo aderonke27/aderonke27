@@ -1,8 +1,12 @@
 ### Hi there👋, I'm Esther Aladeloye
 
-I'm an **entry-level data analyst** passionate about transforming data into actionable insights that drive smarter decisions — especially in **healthcare and public health**. I enjoy exploring datasets, uncovering trends, and creating **interactive dashboards** that communicate stories clearly and impactfully.
+I'm a data analyst passionate about transforming data into actionable insights that drive smarter decisions.
 
-My journey started in **pharmacy**, where I developed a deep interest in how **technology and data** can make healthcare more efficient and accessible. Since then, I’ve built analytical skills through **Excel, Power BI, SQL, and Python**, working on projects related to **sales analytics, patient data, and health trends**.
+I enjoy exploring datasets, uncovering trends, and creating interactive dashboards that communicate stories clearly and impactfully.
+
+My journey started in pharmacy, where I developed a deep interest in how technology and data can make healthcare more efficient and accessible.
+
+Since then, I’ve built analytical skills through Excel, Power BI, SQL, and Python, working on projects related to sales analytics, patient data, and health trends.
 
 💡 **What I do:**
 
